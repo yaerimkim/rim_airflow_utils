@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="0" hostname="DESKTOP-5HBTH7U" name="pytest" skipped="0" tests="1" time="0.091" timestamp="2023-06-09T16:42:36.013478"><testcase classname="tests.rim_airflow_utils.test_rim_airflow_utils" name="test_ping" time="0.002" /></testsuite></testsuites>
